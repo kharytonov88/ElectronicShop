@@ -1,0 +1,22 @@
+#showcase {
+	background: url("../img/header-bg.jpg");
+	height: 100vh;
+	width: 100vw;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.dark-overlay {
+	background-color: #000;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-height: 100vh;
+	opacity: 0.9;
+}
+
+.text-danger {
+	color: #c62c45;
+}
